@@ -1,0 +1,31 @@
+.daeny {
+  float: left;
+  border: 10px solid lightgray;
+
+
+}
+
+.band{
+  float: right;
+  border: 10px solid lightgray;
+}
+
+.info {
+  width: 700px;
+  float: left;
+  text-align: center;
+}
+
+.sidebar {
+  float: left;
+  width: 25%;
+  background-color: lightgray;
+  border: 5px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
